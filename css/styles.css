@@ -1,0 +1,395 @@
+body{
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+   /*section one*/
+.banner{ 
+
+    background-image:url(Banner\ Image.png) ;
+    
+    
+   
+    
+    background-repeat: no repeat;
+   
+    margin-top: 90px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 100px;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    
+
+}
+.background{ 
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.banner-text{
+    color: #FFF;
+
+    text-align: center;
+    
+    font-size: 32px;
+    
+    
+       
+       
+   
+   }
+   .banner-text-new{
+    color: #FFF;
+    font-size: 72px;
+    text-align: center;
+    font-weight: 400;
+  
+    
+   }
+
+
+
+.first{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+
+
+    padding-top: 200px;
+    padding-left: 177px;
+    padding-left: 344PX;
+    padding-right: 344px;
+    
+    
+    
+   
+
+    
+}
+li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+
+/*section two*/
+
+.new{
+
+    justify-content: space-around;
+   
+}
+.percent{
+
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+
+}
+.holiday{
+
+    color: #F00;
+
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 500;
+
+}
+.category{
+    color: #070211;
+
+text-align: center;
+
+font-size: 48px;
+
+font-weight: 700;
+
+}
+.happy{
+    width: 802.9px;
+height: 500px;
+display:flex;
+
+/*section3*/
+
+.party
+}
+.background-image{
+
+    background-image:url('resources/Vectorrr.png') ;
+    background-repeat: no-repeat;
+    color: #FFF;
+    
+
+
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-top: 90px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 100px;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+}
+
+.middle-banner{
+    text-align: ;
+
+    backgroundcolor: #FFF;
+
+
+font-size: 64px;
+
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+
+
+
+
+
+
+}
+.middle-banner-new{
+
+    color: rgba(255, 255, 255, 0.80);
+
+f
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+}
+.fourteen{
+
+
+    
+    
+    
+display: flex;
+width: 319.83px;
+height: 464.662px;
+padding: 0.008px 0px 0px 0px;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
+
+
+}
+.btn-party{
+    
+
+color: #FFF;
+
+text-align: ;
+
+font-size: 20px;
+
+font-weight: 700;
+
+text-transform: uppercase
+}
+
+
+/*main section*/
+.main{
+
+    display: flex;
+    text-align: left;
+    justify-content: left;
+    align-items:;
+}
+
+
+.gift{
+    color: #F00;
+
+
+font-size: 24px;
+
+font-weight: 500;
+
+
+
+}
+.our{
+    color: #070211;
+
+   
+    font-size: 48px;
+    
+    font-weight: 900;
+    
+    text-transform: capitalize;
+
+}
+.dolor{
+    color: rgba(7, 2, 17, 0.60);
+
+font-size: 20px;
+
+font-weight: 400;
+line-height: 32px;
+
+
+}
+..rectangle{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    /*subscribe section */
+    
+}
+.subscribe{
+
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+width: 1320px;
+height: 616px;
+flex-shrink: 0;
+}
+.msg{
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+
+}
+
+.sub{
+
+    color: #070211;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.sit{
+    color: rgba(7, 2, 17, 0.60);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod.
+
+width: 896px;
+
+}
+.emil{
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;;
+background: #FFF;
+width: 1320px;
+height: 616px;
+flex-shrink: 0;
+font-size: ;
+display: flex;
+
+
+
+}
+.btn-last{
+
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+height: 72px;
+flex-shrink: 0;
+display: ;
+
+}
+span{
+    color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+}
+
+
+
+/*foooter*/
+.foot{
+    background: #070211;
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+}
+.add{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; 
+}
+.call{
+
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+}
+.web{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 166.667% */
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.all{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.unsub{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
